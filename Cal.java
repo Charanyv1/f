@@ -2,7 +2,7 @@ public class Cal {
     public static void main(String[] args) {
         double a = 10;
         double b = 5;
-        char op = '+';
+        char op = '-';
 
         double result = 0;
 
