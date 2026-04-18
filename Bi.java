@@ -18,7 +18,7 @@ public class Bi {
 
     public static void main(String[] args) {
         int arr[] = {2, 4, 6, 8, 10, 12};
-        int key = 10;
+        int key = 12;
 
         int result = binarySearch(arr, key);
 
